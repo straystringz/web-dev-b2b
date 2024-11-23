@@ -1,0 +1,16 @@
+{
+	"name": "Learning-web-dev",
+	"description": "Lite web server",
+	"version": "0.0.1",
+	"type": "module",
+	"scripts": {
+		"start": "node index.js",
+		"dev": "nodemon index.js"
+	},
+	"dependencies": {
+		"express": "^4.21.1"
+	},
+	"devDependencies": {
+		"nodemon": "^3.1.7"
+	}
+}
